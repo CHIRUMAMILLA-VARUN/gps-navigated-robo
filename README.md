@@ -25,5 +25,7 @@ This project involved designing and developing a 4-wheel robotic car capable of 
 - Implement dynamic rerouting and path planning algorithms.
 ## PHOTOS
 [car](https://github.com/user-attachments/assets/95704596-ee01-4ddb-a53c-a4a257d48475)
+![app](https://github.com/user-attachments/assets/8e5c0877-6bcd-4f90-b420-ece3f8cc1f51)
+
 ## Acknowledgment
 Special thanks to my mentors and peers for their guidance and support throughout the project. Their insights and encouragement were instrumental in bringing this idea to life.
