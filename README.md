@@ -23,6 +23,7 @@ This project involved designing and developing a 4-wheel robotic car capable of 
 - Enhance navigation accuracy using GPS filtering techniques (e.g., Kalman Filter).
 - Add obstacle detection using ultrasonic or infrared sensors.
 - Implement dynamic rerouting and path planning algorithms.
-
-## Acknowledgments
+## PHOTOS
+[car](https://github.com/user-attachments/assets/95704596-ee01-4ddb-a53c-a4a257d48475)
+## Acknowledgment
 Special thanks to my mentors and peers for their guidance and support throughout the project. Their insights and encouragement were instrumental in bringing this idea to life.
